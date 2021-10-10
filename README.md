@@ -1,2 +1,2 @@
 # Movies-ETL_Practice
-ETL -Module 8
+Module 8 - Pandas and SQL
